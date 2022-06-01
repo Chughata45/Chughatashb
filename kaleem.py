@@ -38,7 +38,7 @@ header = {'x-fb-connection-bandwidth': repr(bd), 'x-fb-sim-hni': repr(sim), 'x-f
 
 logo = """                                                                                                                   
                                                                                                                    
-\033[1:92mKKKKKKKKK    KKKKKKK                  lllllll                                                                      
+KKKKKKKKK    KKKKKKK                  lllllll                                                                      
 K:::::::K    K:::::K                  l:::::l                                                                      
 K:::::::K    K:::::K                  l:::::l                                                                      
 K:::::::K   K::::::K                  l:::::l                                                                      
@@ -54,7 +54,26 @@ K:::::::K   K::::::Ka::::a    a:::::a l::::::le::::::::e          e::::::::e    
 K:::::::K    K:::::Ka:::::aaaa::::::a l::::::l e::::::::eeeeeeee   e::::::::eeeeeeee  m::::m   m::::m   m::::m     
 K:::::::K    K:::::K a::::::::::aa:::al::::::l  ee:::::::::::::e    ee:::::::::::::e  m::::m   m::::m   m::::m     
 KKKKKKKKK    KKKKKKK  aaaaaaaaaa  aaaallllllll    eeeeeeeeeeeeee      eeeeeeeeeeeeee  mmmmmm   mmmmmm   mmmmmm     
-                                                                                                                                               
+ 
+
+
+
+ \033[1;92mKKKKKKKKK    KKKKKKK                  lllllll                                                                      
+K:::::::K    K:::::K                  l:::::l                                                                      
+K:::::::K    K:::::K                  l:::::l                                                                      
+K:::::::K   K::::::K                  l:::::l                                                                      
+KK::::::K  K:::::KKK  aaaaaaaaaaaaa    l::::l     eeeeeeeeeeee        eeeeeeeeeeee       mmmmmmm    mmmmmmm        
+  K:::::K K:::::K     a::::::::::::a   l::::l   ee::::::::::::ee    ee::::::::::::ee   mm:::::::m  m:::::::mm      
+  K::::::K:::::K      aaaaaaaaa:::::a  l::::l  e::::::eeeee:::::ee e::::::eeeee:::::eem::::::::::mm::::::::::m     
+  K:::::::::::K                a::::a  l::::l e::::::e     e:::::ee::::::e     e:::::em::::::::::::::::::::::m     
+  K:::::::::::K         aaaaaaa:::::a  l::::l e:::::::eeeee::::::ee:::::::eeeee::::::em:::::mmm::::::mmm:::::m     
+  K::::::K:::::K      aa::::::::::::a  l::::l e:::::::::::::::::e e:::::::::::::::::e m::::m   m::::m   m::::m     
+  K:::::K K:::::K    a::::aaaa::::::a  l::::l e::::::eeeeeeeeeee  e::::::eeeeeeeeeee  m::::m   m::::m   m::::m     
+KK::::::K  K:::::KKKa::::a    a:::::a  l::::l e:::::::e           e:::::::e           m::::m   m::::m   m::::m     
+K:::::::K   K::::::Ka::::a    a:::::a l::::::le::::::::e          e::::::::e          m::::m   m::::m   m::::m     
+K:::::::K    K:::::Ka:::::aaaa::::::a l::::::l e::::::::eeeeeeee   e::::::::eeeeeeee  m::::m   m::::m   m::::m     
+K:::::::K    K:::::K a::::::::::aa:::al::::::l  ee:::::::::::::e    ee:::::::::::::e  m::::m   m::::m   m::::m     
+KKKKKKKKK    KKKKKKK  aaaaaaaaaa  aaaallllllll    eeeeeeeeeeeeee      eeeeeeeeeeeeee  mmmmmm   mmmmmm   mmmmmm                                                                                                                                            
 \n\033[0m----------------------------------
 \033[1;92mAuthor \033[1;93m: Kaleem Chughata
 \033[1;92mFb \033[1;93m: ヰ༺豐 ཬྀ豐࿐ヰ
